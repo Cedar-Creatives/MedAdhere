@@ -338,8 +338,8 @@ This project was made possible through the support and resources provided by:
 ## Support
 
 For technical support, bug reports, or feature requests:
-- Submit an issue via [GitHub Issues](https://github.com/VeeCC-T/MedAdhere/issues)
-- Contact the development team: [VeeCC-T](https://github.com/VeeCC-T) or [Cedar-Creatives](https://github.com/Cedar-Creatives)
+- Submit an issue via [GitHub Issues](https://github.com/Cedar-Creatives/issues)
+- Contact the development team: [Cedar-Creatives](https://github.com/Cedar-Creatives)  or [VeeCC-T](https://github.com/VeeCC-T)
 
 ## Citation
 
