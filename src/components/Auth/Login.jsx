@@ -64,7 +64,9 @@ const Login = () => {
       <div className="auth-content">
         {/* Logo and Title */}
         <div className="auth-header">
-          <div className="auth-logo">💊</div>
+          <div className="auth-logo">
+            <img src="/logo.png" alt="MedAdhere Logo" className="auth-logo-image" />
+          </div>
           <h1 className="auth-title">{t("auth_login")}</h1>
           <p className="auth-subtitle">Welcome back to MedAdhere</p>
         </div>

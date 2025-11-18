@@ -56,10 +56,11 @@ const Header = ({ user, onLogout }) => {
       <div className="header__container">
         {/* Logo */}
         <div className="header__logo" role="img" aria-label="MedAdhere - Medication Adherence Tracker">
-          <span className="header__logo-icon" aria-hidden="true">
-            💊
-          </span>
-          <span className="header__logo-text">MedAdhere</span>
+          <img 
+            src="/logo.png" 
+            alt="MedAdhere Logo" 
+            className="header__logo-image"
+          />
         </div>
 
         {/* Actions */}

@@ -45,7 +45,9 @@ const PasswordReset = () => {
       <div className="auth-content">
         {/* Logo and Title */}
         <div className="auth-header">
-          <div className="auth-logo">💊</div>
+          <div className="auth-logo">
+            <img src="/logo.png" alt="MedAdhere Logo" className="auth-logo-image" />
+          </div>
           <h1 className="auth-title">{t("auth_reset_password")}</h1>
           <p className="auth-subtitle">
             {success 
